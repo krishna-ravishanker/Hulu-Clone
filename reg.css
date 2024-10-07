@@ -1,0 +1,23 @@
+body{
+    padding:50px;
+    background: linear-gradient(to bottom right, #000, rgb(8, 143, 143));
+}
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding: 50px;
+    border-width: 2px;
+    border-radius: 5px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+}
+.form-group{
+    margin-bottom:30px;
+}
+#logo{
+    width: 20vw;
+    text-align: center;
+    position: relative;
+    left: 40%;
+    margin-bottom: 10px;
+}
